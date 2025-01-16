@@ -10,6 +10,6 @@ function reverse_string($str) {
     return $reversed; 
 }
 
-echo reverse_string("hello") . "<br>";  
-echo reverse_string("world") . "<br>";  
+echo reverse_string("halo semuanya") . "<br>";  
+echo reverse_string("selamat siang") . "<br>";  
 ?>
